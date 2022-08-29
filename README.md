@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jscypy
-- 👀 I’m interested in progamming and development
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in web developer
+- 🌱 I’m currently learning html and css 
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me on instagram @nojennnnn
 
